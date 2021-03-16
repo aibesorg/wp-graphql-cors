@@ -1,0 +1,10 @@
+{
+	"name" : "aibesorg/wp-graphql-cors",
+	"description": ".",
+	"homepage": "https://github.com/aibesorg/wp-graphql-cors/",
+	"type": "wordpress-plugin",
+	"license": "GPL-3.0+",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
